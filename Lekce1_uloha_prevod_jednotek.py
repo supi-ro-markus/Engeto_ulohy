@@ -19,4 +19,5 @@ print("80 kg je:", kg_vysledek,"lb. "
 "5 litrov je:",l_vysledek,"gal."
     )
 
-# kg_vysledek , " mil. "5 litrov je:"+l_vysledek+" gal."
+# kg_vysledek , " mil. "5 litrov j
+# e:"+l_vysledek+" gal." Tato sprava bude na konci.
